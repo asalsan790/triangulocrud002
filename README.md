@@ -24,3 +24,13 @@ cambios para adaptarlo a lo que será un REST API
 y clases en la conexción a BD
 --
 
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M rama001
+git remote add origin https://github.com/asalsan790/triangulocrud002.git
+git push -u origin rama001
+
+
+
